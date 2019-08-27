@@ -7,6 +7,9 @@
 require('./bootstrap');
 
 window.Vue = require('vue');
+window.Vuetify=require('vuetify')
+// import Vuetify from 'vuetify'
+import 'vuetify/dist/vuetify.min.css'
 
 /**
  * The following block of code may be used to automatically register your
