@@ -24,6 +24,7 @@
         "vue-template-compiler": "^2.6.10"
     },
     "dependencies": {
-        "vuetify": "^2.0.11"
+        "material-design-icons-iconfont": "^5.0.1",
+        "vuetify": "^1.5.18"
     }
 }
